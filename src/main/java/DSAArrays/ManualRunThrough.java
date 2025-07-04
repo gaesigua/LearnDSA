@@ -1,4 +1,4 @@
-package DSABubbleSort;
+package DSAArrays;
 
 public class ManualRunThrough {
 

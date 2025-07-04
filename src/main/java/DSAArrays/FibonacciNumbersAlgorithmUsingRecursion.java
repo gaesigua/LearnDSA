@@ -1,4 +1,4 @@
-package DSASimpleAlgorithm;
+package DSAArrays;
 
 public class FibonacciNumbersAlgorithmUsingRecursion {
 
